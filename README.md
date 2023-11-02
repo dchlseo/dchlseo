@@ -1,5 +1,9 @@
-### Hi there 👋
+#### Hello World 
 
+- 👋 name: DC.
+- 👀 interests: data science, psychophysiology (master's degree in clinical psychology)
+- 📖 academic publications: [ResearchGate Profile](https://www.researchgate.net/profile/Deachul_Seo2)
+- 📫 contact: dchlseo@gmail.com, [LinkedIn](https://www.linkedin.com/in/dchlseo/)  
 <!--
 **dchlseo/dchlseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +14,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
