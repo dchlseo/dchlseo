@@ -1,4 +1,4 @@
-_Hello World!_ 
+_hello, world!_ 
 
 - 👋 name: DC.
 - 👀 interests: data science, psychophysiology (master's degree in clinical psychology)
