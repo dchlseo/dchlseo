@@ -2,7 +2,7 @@ _hello, world!_
 
 - 👋 name: DC.
 - 👀 interests: data science, psychophysiology (master's degree in clinical psychology)
-- 📖 academic publications: [ResearchGate Profile](https://www.researchgate.net/profile/Deachul_Seo2)
+- 📖 academic publications: [ResearchGate](https://www.researchgate.net/profile/Deachul_Seo2)
 - 📫 contact: dchlseo@gmail.com, [LinkedIn](https://www.linkedin.com/in/dchlseo/)  
 <!--
 **dchlseo/dchlseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
