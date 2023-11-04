@@ -1,7 +1,7 @@
 _hello, world!_ 
 
 - 👋 name: DC.
-- 👀 interests: data science, psychophysiology (master's degree in clinical psychology)
+- 👀 interests: data science, psychophysiology (m.s. clinical psychology)
 - 📖 academic publications: [ResearchGate](https://www.researchgate.net/profile/Deachul_Seo2)
 - 📫 contact: dchlseo@gmail.com
 <!--
