@@ -1,4 +1,4 @@
-_Dilige et fac quod vis_ 
+_Dilige et fac quod vis. 사랑하라, 그리고 네가 하고 싶은 것을 하라._ 
 
 - 👋 name: DC.
 - 👀 interests: data science, psychophysiology/affective neuroscience
