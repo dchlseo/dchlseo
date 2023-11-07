@@ -1,4 +1,4 @@
-_hello, world!_ 
+_Dilige et fac quod vis_ 
 
 - 👋 name: DC.
 - 👀 interests: data science, psychophysiology/affective neuroscience
