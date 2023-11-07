@@ -1,4 +1,4 @@
-_Dilige et fac quod vis_ 
+_Dilige et fac quod vis_ 
 
 - 👋 name: DC.
 - 👀 interests: data science, psychophysiology/affective neuroscience
