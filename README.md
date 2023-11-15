@@ -1,4 +1,4 @@
-_Data Scientist. Researcher in Clinical Psychology. Avid Hobbyist._
+_Data Analyst. Researcher in Clinical Psychology. Avid Hobbyist._
 
 - 👋 name: DC.
 - 👀 interests: data science, psychology, affective neuroscience/psychophysiology
