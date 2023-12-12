@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) 
+<!--
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) 
-
+-->
 ### Certs
 ![google-data-analytics-certificate 2](https://github.com/dchlseo/dchlseo/assets/70427747/dca1ac02-6315-4d6b-b989-e54314452b0e)
