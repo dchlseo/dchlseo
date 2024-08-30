@@ -2,6 +2,7 @@ _Data Analyst. Researcher in Clinical Psychology. Avid Hobbyist._
 
 - 👋 name: DC.
 - 👀 interests: data science, psychology, affective neuroscience/psychophysiology
+- 🔭 position: senior researcher @ [Yanolja Research](https://www.yanolja-research.com/?lang=en) 
 - 📖 academic publications (m.a. in clinical psychology): [ResearchGate](https://www.researchgate.net/profile/Deachul_Seo2)
 - 📫 contact: dchlseo@gmail.com
 <!--
