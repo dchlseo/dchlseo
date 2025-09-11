@@ -1,5 +1,5 @@
 SDC | Researcher @ Yanolja Research  
-Data Analysis • Tourism & Hospitality Insights
+Data Analysis • ML/DL • Tourism & Hospitality Insights
 
 
 <!--
